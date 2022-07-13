@@ -22,8 +22,8 @@ setup(
     version=get_version(),
     url='https://github.com/nvie/rq/',
     license='BSD',
-    author='Vincent Driessen',
-    author_email='vincent@3rdcloud.com',
+    author='GISCE-TI, S.L.',
+    author_email='devel@gisce.net',
     description='RQ is a simple, lightweight, library for creating background '
                 'jobs, and processing them.',
     long_description=__doc__,
